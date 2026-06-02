@@ -1,8 +1,7 @@
 ## Oiie! Eu sou a Sofia 👋
 <center><h3>Estudante! 📖✨</h3></center>
 
-- 📝 Atualmente estudo no Instituto Federal de São Paulo
-- 😄 Agora começando do básico em Python e C (html também!)
+
 ##
 [![Blog](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
